@@ -12,7 +12,5 @@
 <br />
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfahmi&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D">
 <br />
-<br />
-   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilfahmi&layout=compact&theme=nightowl">
   </div>
 </div>
