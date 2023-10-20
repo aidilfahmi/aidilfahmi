@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h1> $${\color{lightgreen}G I T H U B \space S T A T S}$$ </h1>
+  <h1> G I T H U B  S T A T S </h1>
   <hr>
   </div>
 </div>
